@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x783f6CFf99CD9253E10234FE1AE34E3cDf6d3206",
+  "SCAN_LINK": "https://polygonscan.com/address/0x783f6cff99cd9253e10234fe1ae34e3cdf6d3206",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "ChilliPunks Club",
+  "SYMBOL": "CHP",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chillipunks-club-official",
+  "SHOW_BACKGROUND": true
+}
